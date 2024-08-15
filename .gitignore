@@ -1,0 +1,22 @@
+# Unity
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.svd
+*.vscode
+*.DS_Store
+*.idea
+*.gradle
+*.apk
+*.unityproj
+*.log
+*.swp
+*.sublime-workspace
+
+# Exclude Temp and .vs directories
+Temp/
+.vs/
